@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/lanfilll/static/css/main.4cb851e0.css",
+    "main.js": "/lanfilll/static/js/main.48ed1033.js",
+    "static/media/aryan1.png": "/lanfilll/static/media/aryan1.6f12920df8bf2799815b.png",
+    "static/media/Yash.png": "/lanfilll/static/media/Yash.eda85fb44319206e62e2.png",
+    "static/media/poster.png": "/lanfilll/static/media/poster.6b6521a3dbd794bc01ab.png",
+    "static/media/Tanishq.png": "/lanfilll/static/media/Tanishq.7d3b3089598adb66efd4.png",
+    "static/media/cf.png": "/lanfilll/static/media/cf.58b644c41ece081d4a1f.png",
+    "static/media/Arnav.png": "/lanfilll/static/media/Arnav.3eba5d0ddf3755e97448.png",
+    "index.html": "/lanfilll/index.html",
+    "main.4cb851e0.css.map": "/lanfilll/static/css/main.4cb851e0.css.map",
+    "main.48ed1033.js.map": "/lanfilll/static/js/main.48ed1033.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb851e0.css",
+    "static/js/main.48ed1033.js"
+  ]
+}
